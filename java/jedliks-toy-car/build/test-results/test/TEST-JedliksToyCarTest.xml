@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="JedliksToyCarTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2026-04-16T15:53:54.729Z" hostname="AT-ALVG9R9K" time="0.236">
+  <properties/>
+  <testcase name="The static buy method returns a new remote controlled car instance" classname="JedliksToyCarTest" time="0.139"/>
+  <testcase name="The distanceDisplay method shows the correct message after driving and draining all battery" classname="JedliksToyCarTest" time="0.018"/>
+  <testcase name="The distanceDisplay method shows the correct message after driving once" classname="JedliksToyCarTest" time="0.002"/>
+  <testcase name="The static buy method returns each time a new remote controlled car instance" classname="JedliksToyCarTest" time="0.004"/>
+  <testcase name="The distanceDisplay method shows the correct message after driving multiple times" classname="JedliksToyCarTest" time="0.003"/>
+  <testcase name="The batteryDisplay method shows the correct battery percentage after driving multiple times" classname="JedliksToyCarTest" time="0.002"/>
+  <testcase name="The batteryDisplay method shows battery empty after draining all battery" classname="JedliksToyCarTest" time="0.001"/>
+  <testcase name="The batteryDisplay method shows the correct message after driving once" classname="JedliksToyCarTest" time="0.004"/>
+  <testcase name="The batteryDisplay method shows full battery message on a new car" classname="JedliksToyCarTest" time="0.002"/>
+  <testcase name="The distanceDisplay method shows 0 meters message on a new car" classname="JedliksToyCarTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
